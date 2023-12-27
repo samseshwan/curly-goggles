@@ -1,0 +1,3 @@
+instructions for deploying this site 
+-------------------------------------
+Click open file 
