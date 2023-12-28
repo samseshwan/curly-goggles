@@ -2,5 +2,7 @@ instructions for deploying this site to the server
 -------------------------------------
 Click open file 
 
+----------------
 Troubleshooting 
 ----------------
+
